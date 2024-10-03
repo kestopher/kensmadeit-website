@@ -1,11 +1,7 @@
-import React from 'react'
+import React from "react";
 
 const HotDealsPage = () => {
-  return (
-    <div>
-      
-    </div>
-  )
-}
+  return <div>deals</div>;
+};
 
-export default HotDealsPage
+export default HotDealsPage;

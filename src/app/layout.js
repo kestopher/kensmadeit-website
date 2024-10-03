@@ -31,10 +31,10 @@ export default function RootLayout({ children }) {
     <html lang="en">
       <body className={poppins.className}>
         <div className="m-auto flex flex-col justify-between">
-        <Navbar />
+          <Navbar />
 
-        {children}
-        <Footer />
+          {children}
+          <Footer />
         </div>
       </body>
     </html>
