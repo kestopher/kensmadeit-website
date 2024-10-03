@@ -1,130 +1,13 @@
-import Image from "next/image";
-
 export default function Home() {
   return (
-<div className="bg-bgSoft min-w-full">
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-  Hey
-</div>
+    <div className="bg-bgSoft min-w-full">
+      Hey Hey Hey Hey Hey Hey Hey Hey Hey Hey Hey Hey Hey Hey Hey Hey Hey Hey
+      Hey Hey Hey Hey Hey Hey Hey Hey Hey Hey Hey Hey Hey Hey Hey Hey Hey Hey
+      Hey Hey Hey Hey Hey Hey Hey Hey Hey Hey Hey Hey Hey Hey Hey Hey Hey Hey
+      Hey Hey Hey Hey Hey Hey Hey Hey Hey Hey Hey Hey Hey Hey Hey Hey Hey Hey
+      Hey Hey Hey Hey Hey Hey Hey Hey Hey Hey Hey Hey Hey Hey Hey Hey Hey Hey
+      Hey Hey Hey Hey Hey Hey Hey Hey Hey Hey Hey Hey Hey Hey Hey Hey Hey Hey
+      Hey Hey Hey Hey Hey Hey Hey Hey Hey Hey Hey Hey Hey Hey
+    </div>
   );
 }

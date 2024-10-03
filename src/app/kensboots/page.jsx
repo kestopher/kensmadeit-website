@@ -1,9 +1,7 @@
-import React from 'react'
+import React from "react";
 
 const KensBootPage = () => {
-  return (
-    <div>KensBootPage</div>
-  )
-}
+  return <div>KensBootPage</div>;
+};
 
-export default KensBootPage
+export default KensBootPage;
